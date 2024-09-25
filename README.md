@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi 👋<img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Davy!</h1>
-<h4 align="center">a data science student in Institute of Technology of Cambodia and a cyber security of Thinkcyber x Ant Training Center</h4>
+<h4 align="center">a data science student in Institute of Technology of Cambodia and a cyber security student in Thinkcyber x Ant Training Center</h4>
 </div>
 <div>
   <samp>
