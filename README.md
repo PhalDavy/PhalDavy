@@ -25,10 +25,10 @@
 
 <br/>
 <p align="left">
-  <a href="https://www.torrinleonard.com/">
+<!--   <a href="https://www.torrinleonard.com/"> -->
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=PhalDavy&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=PhalDavy&theme=radical&hide_border=true">		  
-  </a>
+<!--     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=PhalDavy&theme=radical&hide_border=true">		   -->
+<!--   </a> -->
 </p>
 <br>
 
